@@ -1,0 +1,38 @@
+@import url(../../css/12bool.css);
+
+/* style project */
+img{
+    width: 100%;
+    display: block;
+}
+.first-section{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.row{
+    background-color:rgba(116, 221, 244, 0.6);
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 0 auto;
+}
+.row .row{
+    background-color:rgba(4, 4, 49, 0.4)
+}
+.col-4{
+    padding: 25px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 1rem;
+}
+
+/* first section */
+
+.book--article{
+    padding: 1.25rem;
+    overflow-y: auto;
+}
