@@ -1,1 +1,15 @@
 @import url(12bool.css);
+
+
+
+/* style */
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 0 auto;
+}
+.col-1{
+    background-color: purple;
+    border: 1px solid white;
+    color: white;
+}
