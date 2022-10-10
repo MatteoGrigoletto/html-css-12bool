@@ -57,7 +57,7 @@
 .margin-5{
     margin-left: calc((100% / 12) * 5);
 }
-.marginl-6{
+.margin-6{
     margin-left: calc((100% / 12) * 6);
 }
 .margin-7{
@@ -69,7 +69,7 @@
 .margin-9{
     margin-left: calc((100% / 12) * 9);
 }
-.marginl-10{
+.margin-10{
     margin-left: calc((100% / 12) * 10);
 }
 .margin-11{
@@ -140,7 +140,7 @@
     .margin-xs-5{
         margin-left: calc((100% / 12) * 5);
     }
-    .marginl-xs-6{
+    .margin-xs-6{
         margin-left: calc((100% / 12) * 6);
     }
     .margin-xs-7{
@@ -152,7 +152,7 @@
     .margin-xs-9{
         margin-left: calc((100% / 12) * 9);
     }
-    .marginl-xs-10{
+    .margin-xs-10{
         margin-left: calc((100% / 12) * 10);
     }
     .margin-xs-11{
@@ -222,7 +222,7 @@
     .margin-sm-5{
         margin-left: calc((100% / 12) * 5);
     }
-    .marginl-sm-6{
+    .margin-sm-6{
         margin-left: calc((100% / 12) * 6);
     }
     .margin-sm-7{
@@ -234,7 +234,7 @@
     .margin-sm-9{
         margin-left: calc((100% / 12) * 9);
     }
-    .marginl-sm-10{
+    .margin-sm-10{
         margin-left: calc((100% / 12) * 10);
     }
     .margin-sm-11{
@@ -303,7 +303,7 @@
     .margin-md-5{
         margin-left: calc((100% / 12) * 5);
     }
-    .marginl-md-6{
+    .margin-md-6{
         margin-left: calc((100% / 12) * 6);
     }
     .margin-md-7{
@@ -315,7 +315,7 @@
     .margin-md-9{
         margin-left: calc((100% / 12) * 9);
     }
-    .marginl-md-10{
+    .margin-md-10{
         margin-left: calc((100% / 12) * 10);
     }
     .margin-md-11{
@@ -384,7 +384,7 @@
     .margin-lg-5{
         margin-left: calc((100% / 12) * 5);
     }
-    .marginl-lg-6{
+    .margin-lg-6{
         margin-left: calc((100% / 12) * 6);
     }
     .margin-lg-7{
@@ -396,7 +396,7 @@
     .margin-lg-9{
         margin-left: calc((100% / 12) * 9);
     }
-    .marginl-lg-10{
+    .margin-lg-10{
         margin-left: calc((100% / 12) * 10);
     }
     .margin-lg-11{
