@@ -18,3 +18,11 @@
 .row .row > * {
     background-color: greenyellow;
 }
+section{
+    margin-bottom: 1rem;
+}
+/* second-section */
+
+.second-section [class*='col']{
+    padding: 1.25rem;
+}
